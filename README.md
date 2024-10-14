@@ -32,7 +32,8 @@ The dataset consists of various Mars images from different missions and instrume
 - Spectral data visualizations (e.g., PIA05029.jpg)
 - Elevation or composition maps (e.g., PIA04910.jpg)
 
-<img width="1021" alt="Screenshot 2024-10-13 at 9 49 03 PM" src="https://github.com/user-attachments/assets/7f897a73-662c-4624-994c-d2f9a4414400">
+![download (2)](https://github.com/user-attachments/assets/b5b76e38-4615-4f4a-a325-19450e7bf9f8)
+
 
 ## Results
 
